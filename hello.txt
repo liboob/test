@@ -13,5 +13,4 @@ hello word!
 hello word!
 11111111111
 hello word!
-222222   22
 22222222222
